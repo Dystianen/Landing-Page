@@ -19,7 +19,7 @@
     animation-duration: 2s;
 }
 .jumbutron{
-    background-image: url(../img/img/jumbotron-bg.jpg);
+    background-image: url(../img/jumbotron-bg.jpg);
     background-size: cover;
     height: 540px;
     text-align: center;
